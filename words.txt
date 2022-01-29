@@ -1,4 +1,6 @@
-sh 1
+a 16
+abdicated 1
+abolish 1
 abolishing 3
 absolute 3
 absolved 1
