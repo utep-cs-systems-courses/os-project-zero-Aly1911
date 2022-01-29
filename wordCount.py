@@ -5,6 +5,9 @@ with open("declaration.txt", 'r') as readFile:
     lines = readFile.readlines()
 
     #get every word in the txt file and don't consider capitalization
+
+    #get(find) every word in the txt file and don't consider capitalization
+
     words = re.findall('\w+', open('declaration.txt').read().lower())
 
     #assign words to dictionary, word as key and count as value
